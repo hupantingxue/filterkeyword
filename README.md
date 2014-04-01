@@ -1,0 +1,4 @@
+filterkeyword
+=============
+
+Filter forbidden keywords
