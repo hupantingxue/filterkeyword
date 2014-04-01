@@ -1,0 +1,7 @@
+include MANIFEST.in
+include setup.py
+include *.c *.h *.txt
+
+recursive-include src *.h *.c mogu.txt Makefile
+
+prune build

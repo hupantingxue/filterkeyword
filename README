@@ -1,0 +1,13 @@
+
+Installation
+------------
+use c99 standard
+
+python setup.py install
+
+License
+-------
+GPL 
+
+:Author: Chinaren Wei <weizhonghua.ati@gmail.com>
+
